@@ -50,7 +50,7 @@ body * {
 
 #profile {
   text-align: center;
-  padding: 24px;
+  padding: 20px;
 }
 
 #profile img {
@@ -133,7 +133,7 @@ ul li a:hover {
 #social-links {
   display: flex;
   gap: 16px;
-  padding: 24px 0;
+  padding: 5px 0;
   font-size: 24px;
   justify-content: center;
 }
@@ -156,8 +156,6 @@ footer {
   text-align: center;
   font-size: 14px;
 }
-
-
 
 /* media queries */
 @media (min-width: 700px) {
